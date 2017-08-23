@@ -1,0 +1,13 @@
+name: SapphireBot
+version: 0.1.0
+
+authors:
+  - Joshua Kidd <kidd.josh.343@gmail.com>
+
+targets:
+  SapphireBot:
+    main: src/SapphireBot.cr
+
+crystal: 0.23.1
+
+license: MIT
